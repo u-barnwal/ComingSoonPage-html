@@ -4,6 +4,15 @@ A website template built with `HTML` & `CSS` to quickly create a good-looking re
 ## Screenshot
 ![](./samples/landing.png)
 
+## Initialization
+Install [degit](https://github.com/Rich-Harris/degit) globally.
+````shell
+yarn global add degit
+````
+Download the latest version
+````shell
+degit u-barnwal/ComingSoonPage-html
+````
 
 ## How to modify?
 - Replace `logo`, `icon` & `background` in the [/images](/images) folder
@@ -11,6 +20,7 @@ A website template built with `HTML` & `CSS` to quickly create a good-looking re
 - Update subtext in [index.html](index.html#L45) file at **line 45**
 - Update/Create social media links in [index.html](index.html#L50) file at **line 50**
   - To style any link, update/create the classes in [main.css](css/main.css#L307) file at **line 307**
+
 ## Use Cases
 - Coming Soon Page
 - Error Pages (404, 403, etc.)
@@ -21,6 +31,7 @@ A website template built with `HTML` & `CSS` to quickly create a good-looking re
 - Lightweight
 - 100% Responsive 
 - Social Media Links
+
 ## Live Pages
 - http://artwitch.in/
 - https://sghl.world/
