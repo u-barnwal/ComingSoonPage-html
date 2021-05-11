@@ -7,7 +7,7 @@ A website template built with `HTML` & `CSS` to quickly create a good-looking re
 ## Initialization
 Install [degit](https://github.com/Rich-Harris/degit) globally.
 ````shell
-yarn global add degit
+npm install -g degit
 ````
 Download the latest version
 ````shell
