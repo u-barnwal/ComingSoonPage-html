@@ -1,6 +1,16 @@
 # Coming Soon Page
-A website template built with HTML & CSS to quickly create a good-looking responsive single-page message page for your website.  
+A website template built with `HTML` & `CSS` to quickly create a good-looking responsive single-page message page for your website.
 
+## Screenshot
+![](./samples/landing.png)
+
+
+## How to modify?
+- Replace `logo`, `icon` & `background` in the [/images](/images) folder
+- Update text in [index.html](index.html#L36) file at **line 36**
+- Update subtext in [index.html](index.html#L45) file at **line 45**
+- Update/Create social media links in [index.html](index.html#L50) file at **line 50**
+  - To style any link, update/create the classes in [main.css](css/main.css#L307) file at **line 307**
 ## Use Cases
 - Coming Soon Page
 - Error Pages (404, 403, etc.)
@@ -11,10 +21,6 @@ A website template built with HTML & CSS to quickly create a good-looking respon
 - Lightweight
 - 100% Responsive 
 - Social Media Links
-
-## Screenshot
-![](./samples/landing.png)
-
 ## Live Pages
 - http://artwitch.in/
 - https://sghl.world/
