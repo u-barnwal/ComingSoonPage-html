@@ -311,16 +311,16 @@ input.input100 {
 .bg1 {
   background-color: #57b846;
 }
-.bg3 {
+.bg-facebook {
   background-color: #3b5998;
 }
-.bg4 {
+.bg-twitter {
   background-color: #1da1f2;
 }
-.bg5 {
+.bg-youtube {
   background-color: #cd201f;
 }
-.bg6 {
+.bg-instagram {
   background: radial-gradient(
     circle at 30% 107%,
     #fdf497 0%,
