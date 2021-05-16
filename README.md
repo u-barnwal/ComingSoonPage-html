@@ -15,6 +15,7 @@ degit u-barnwal/ComingSoonPage-html
 ````
 
 ## How to modify?
+- Update the page title in `<head>` tag
 - Replace `logo`, `icon` & `background` in the [/images](/images) folder
 - Update text in [index.html](index.html#L36) file at **line 36**
 - Update subtext in [index.html](index.html#L45) file at **line 45**
@@ -33,8 +34,10 @@ degit u-barnwal/ComingSoonPage-html
 - Social Media Links
 
 ## Live Pages
-- http://artwitch.in/
+- https://artwitch.in/
 - https://sghl.world/
+- https://ceekayandsons.com/
+- https://tradecondowntown.shop/
 
 ## Contribution
 Want to contribute to this project? Great, create a fork and start working :)  
